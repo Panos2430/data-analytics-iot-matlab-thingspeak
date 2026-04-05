@@ -13,12 +13,12 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
   Παρακάτω φαίνονται screenshots από τα 5 κανάλια που δημιούργησα για συλλογή και ανάλυση δεδομένων:
 
 | Channel | Screenshot |
-|---------|------------|
-| Channel 1 | ![Channel 1](Images/channel1.png) |
-| Channel 2 | ![Channel 2](Images/channel2.png) |
-| Channel 3 | ![Channel 3](Images/channel3.png) |
-| Channel 4 | ![Channel 4](Images/channel4.png) |
-| Channel 5 | ![Channel 5](Images/channel5.png) |
+| :--- | :--- |
+| **Channel 1** | ![Channel 1](Images/Channel%201/channel1.png) |
+| **Channel 2** | ![Channel 2](Images/Channel%202/channel2.png) |
+| **Channel 3** | ![Channel 3](Images/Channel%203/channel3.png) |
+| **Channel 4** | ![Channel 4](Images/Channel%204/channel4.png) |
+| **Channel 5** | ![Channel 5](Images/Channel%205/channel5.png) |
 
 ## **Οδηγίες χρήσης**
 
