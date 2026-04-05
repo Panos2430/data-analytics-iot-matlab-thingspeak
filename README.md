@@ -14,11 +14,11 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 
 | Channel | Preview Screenshot |
 | :--- | :--- |
-| **Channel 1** | <img src="Images/Channel1/channel1.1.png" width="250"> |
-| **Channel 2** | <img src="Images/Channel2/channel2.1.png" width="250"> |
-| **Channel 3** | <img src="Images/Channel3/channel3.1.png" width="250"> |
-| **Channel 4** | <img src="Images/Channel4/channel4.1.png" width="250"> |
-| **Channel 5** | <img src="Images/Channel5/channel5.1.png" width="250"> |
+| **Channel 1** | <img src="Images/Channel 1/ch1_screenshot1.png" width="250"> |
+| **Channel 2** | <img src="Images/Channel 2/ch2_screenshot1.png" width="250"> |
+| **Channel 3** | <img src="Images/Channel 3/ch3_screenshot1.png" width="250"> |
+| **Channel 4** | <img src="Images/Channel 4/ch4_screenshot1.png" width="250"> |
+| **Channel 5** | <img src="Images/Channel 5/ch5_screenshot1.png" width="250"> |
 
 > 📂 **Δείτε περισσότερα:** Για την πλήρη συλλογή των screenshots από κάθε κανάλι, περιηγηθείτε στους υποφακέλους του καταλόγου [**Images**](./Images).
 
