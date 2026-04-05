@@ -6,23 +6,23 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 
 ## **Περιεχόμενα**
 
-- **Πτυχιακή Εργασία Στεφανουδάκης - Ογκρένι**  
-  Περιέχει την πτυχιακή εργασία σε PDF.
+* **Πτυχιακή Εργασία Στεφανουδάκης - Ογκρένι** Περιέχει την πτυχιακή εργασία σε PDF.
   
-  ## ThingSpeak Channels 
-  Παρακάτω φαίνονται screenshots από τα 5 κανάλια που δημιούργησα για συλλογή και ανάλυση δεδομένων:
+## **ThingSpeak Channels Preview** Παρακάτω φαίνεται ένα δείγμα από τα 5 κανάλια. Μπορείτε να δείτε **όλα τα screenshots** αναλυτικά στον φάκελο [**Images/**](./Images).
 
-| Channel | Screenshot |
+| Channel | Preview Screenshot |
 | :--- | :--- |
-| **Channel 1** | ![Channel 1](Images/Channel%201/channel1.png) |
-| **Channel 2** | ![Channel 2](Images/Channel%202/channel2.png) |
-| **Channel 3** | ![Channel 3](Images/Channel%203/channel3.png) |
-| **Channel 4** | ![Channel 4](Images/Channel%204/channel4.png) |
-| **Channel 5** | ![Channel 5](Images/Channel%205/channel5.png) |
+| **Channel 1** | ![Channel 1](Images/Channel%201/channel1.1.png) |
+| **Channel 2** | ![Channel 2](Images/Channel%202/channel2.1.png) |
+| **Channel 3** | ![Channel 3](Images/Channel%203/channel3.1.png) |
+| **Channel 4** | ![Channel 4](Images/Channel%204/channel4.1.png) |
+| **Channel 5** | ![Channel 5](Images/Channel%205/channel5.1.png) |
+
+> 📂 **Δείτε περισσότερα:** Για την πλήρη συλλογή των screenshots από κάθε κανάλι, περιηγηθείτε στους υποφακέλους του καταλόγου [**Images**](./Images).
 
 ## **Οδηγίες χρήσης**
 
-1. Κατεβάστε το PDF από τον φάκελο `Πτυχιακή Εργασία Στεφανουδάκης - Ογκρένι/` για να δείτε όλη την εργασία.  
+1. Κατεβάστε το PDF **Πτυχιακή Στεφανουδάκης - Ογκρένι.pdf** για να δείτε όλη την εργασία.  
 2. Δείτε τα dashboards των ThingSpeak καναλιών από τα screenshots για να καταλάβετε τη συλλογή και ανάλυση δεδομένων.
 
 **Σημείωση:** Ο κώδικας MATLAB και τα scripts του ThingSpeak δεν περιλαμβάνονται δημόσια για προστασία της πνευματικής μου ιδιοκτησίας.
