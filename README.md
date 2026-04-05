@@ -9,13 +9,15 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 - **Docs/**  
   Περιέχει την πτυχιακή εργασία σε PDF.
   
-- **ThingSpeak**  
-  Για να δείτε τα δεδομένα που συλλέχθηκαν και την ανάλυση σε πραγματικό χρόνο:  
-  [ThingSpeak Channel](https://thingspeak.com/channels/2972718)
-  [ThingSpeak Channel](https://thingspeak.com/channels/3110179)
-  [ThingSpeak Channel](https://thingspeak.com/channels/3110317)
-  [ThingSpeak Channel](https://thingspeak.com/channels/3105920)
-  [ThingSpeak Channel](https://thingspeak.com/channels/3111439)
+  ## ThingSpeak Channels
+
+Για να δείτε τα δεδομένα που συλλέχθηκαν και την ανάλυση σε πραγματικό χρόνο, μπορείτε να επισκεφθείτε τα παρακάτω κανάλια:
+
+- [ThingSpeak Channel 1](https://thingspeak.com/channels/2972718)  
+- [ThingSpeak Channel 2](https://thingspeak.com/channels/3110179)  
+- [ThingSpeak Channel 3](https://thingspeak.com/channels/3110317)  
+- [ThingSpeak Channel 4](https://thingspeak.com/channels/3105920)  
+- [ThingSpeak Channel 5](https://thingspeak.com/channels/3111439)  
   
 ## **Οδηγίες χρήσης**
 
