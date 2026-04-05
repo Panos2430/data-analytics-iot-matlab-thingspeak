@@ -6,7 +6,7 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 
 ## **Περιεχόμενα**
 
-- **Docs/**  
+- **Πτυχιακή Εργασία Στεφανουδάκης - Ογκρένι**  
   Περιέχει την πτυχιακή εργασία σε PDF.
   
   ## ThingSpeak Channels 
@@ -22,7 +22,7 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 
 ## **Οδηγίες χρήσης**
 
-1. Κατεβάστε το PDF από τον φάκελο `Docs/` για να δείτε όλη την εργασία.  
+1. Κατεβάστε το PDF από τον φάκελο `Πτυχιακή Εργασία Στεφανουδάκης - Ογκρένι/` για να δείτε όλη την εργασία.  
 2. Δείτε τα dashboards των ThingSpeak καναλιών από τα screenshots για να καταλάβετε τη συλλογή και ανάλυση δεδομένων.
 
 **Σημείωση:** Ο κώδικας MATLAB και τα scripts του ThingSpeak δεν περιλαμβάνονται δημόσια για προστασία της πνευματικής μου ιδιοκτησίας.
