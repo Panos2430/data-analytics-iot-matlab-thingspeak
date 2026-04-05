@@ -4,6 +4,8 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 
 Αυτό το project περιλαμβάνει την πτυχιακή μου εργασία σχετικά με την ανάλυση δεδομένων από IoT συσκευές χρησιμοποιώντας MATLAB και ThingSpeak.
 
+---
+
 ## **Περιεχόμενα**
 
 * **Πτυχιακή Εργασία Στεφανουδάκης - Ογκρένι** Περιέχει την πτυχιακή εργασία σε PDF.
@@ -12,13 +14,15 @@ IoT data collection, analysis and visualization using MATLAB and ThingSpeak plat
 
 | Channel | Preview Screenshot |
 | :--- | :--- |
-| **Channel 1** | ![Channel 1](Images/Channel%201/channel1.1.png) |
-| **Channel 2** | ![Channel 2](Images/Channel%202/channel2.1.png) |
-| **Channel 3** | ![Channel 3](Images/Channel%203/channel3.1.png) |
-| **Channel 4** | ![Channel 4](Images/Channel%204/channel4.1.png) |
-| **Channel 5** | ![Channel 5](Images/Channel%205/channel5.1.png) |
+| **Channel 1** | <img src="Images/Channel 1/channel1.1.png" width="250"> |
+| **Channel 2** | <img src="Images/Channel 2/channel2.1.png" width="250"> |
+| **Channel 3** | <img src="Images/Channel 3/channel3.1.png" width="250"> |
+| **Channel 4** | <img src="Images/Channel 4/channel4.1.png" width="250"> |
+| **Channel 5** | <img src="Images/Channel 5/channel5.1.png" width="250"> |
 
 > 📂 **Δείτε περισσότερα:** Για την πλήρη συλλογή των screenshots από κάθε κανάλι, περιηγηθείτε στους υποφακέλους του καταλόγου [**Images**](./Images).
+
+---
 
 ## **Οδηγίες χρήσης**
 
